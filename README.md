@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0239-sliding-window-maximum](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
+| [0410-split-array-largest-sum](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0735-asteroid-collision) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0410-split-array-largest-sum](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0943-sum-of-subarray-minimums) |
 ## Simulation
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0402-remove-k-digits) |
+| [0410-split-array-largest-sum](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0410-split-array-largest-sum) |
 ## Sliding Window
 |  |
 | ------- |
@@ -86,5 +89,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0410-split-array-largest-sum](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
