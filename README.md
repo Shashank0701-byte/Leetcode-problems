@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0503-next-greater-element-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0735-asteroid-collision](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0943-sum-of-subarray-minimums) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0410-split-array-largest-sum](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0410-split-array-largest-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Prefix Sum
 |  |
