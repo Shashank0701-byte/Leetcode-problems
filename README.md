@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0735-asteroid-collision](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0943-sum-of-subarray-minimums) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0162-find-peak-element) |
 | [0410-split-array-largest-sum](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Prefix Sum
