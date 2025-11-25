@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0735-asteroid-collision) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2169-count-operations-to-obtain-zero](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2169-count-operations-to-obtain-zero) |
 ## Greedy
 |  |
 | ------- |
@@ -177,5 +178,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1015-smallest-integer-divisible-by-k) |
+| [2169-count-operations-to-obtain-zero](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2169-count-operations-to-obtain-zero) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 <!---LeetCode Topics End-->
