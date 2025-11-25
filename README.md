@@ -56,12 +56,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1646-kth-missing-positive-number) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0496-next-greater-element-i](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0496-next-greater-element-i) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0735-asteroid-collision) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Greedy
 |  |
 | ------- |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0148-sort-list) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Merge Sort
 |  |
 | ------- |
