@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0231-power-of-two) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2169-count-operations-to-obtain-zero) |
