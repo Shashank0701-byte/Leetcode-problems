@@ -189,4 +189,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2169-count-operations-to-obtain-zero) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+## Tree
+|  |
+| ------- |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2872-maximum-number-of-k-divisible-components) |
+## Depth-First Search
+|  |
+| ------- |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2872-maximum-number-of-k-divisible-components) |
 <!---LeetCode Topics End-->
