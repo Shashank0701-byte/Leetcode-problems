@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1590-make-sum-divisible-by-p) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1646-kth-missing-positive-number) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0410-split-array-largest-sum) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1646-kth-missing-positive-number) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0148-sort-list) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Merge Sort
 |  |
