@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0460-lfu-cache) |
 ## Queue
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1590-make-sum-divisible-by-p) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
+| [0460-lfu-cache](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0460-lfu-cache) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0460-lfu-cache) |
 ## Geometry
 |  |
 | ------- |
