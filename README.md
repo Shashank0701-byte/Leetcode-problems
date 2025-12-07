@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [1021-remove-outermost-parentheses](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2211-count-collisions-on-a-road](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2211-count-collisions-on-a-road) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0146-lru-cache) |
+| [0424-longest-repeating-character-replacement](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Heap (Priority Queue)
