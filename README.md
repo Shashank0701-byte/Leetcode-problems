@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [1021-remove-outermost-parentheses](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2211-count-collisions-on-a-road](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2211-count-collisions-on-a-road) |
 ## Array
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1590-make-sum-divisible-by-p](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1590-make-sum-divisible-by-p) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Heap (Priority Queue)
 |  |
