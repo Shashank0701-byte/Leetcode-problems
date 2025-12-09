@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3583-count-special-triplets](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/3583-count-special-triplets) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3583-count-special-triplets](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/3583-count-special-triplets) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Monotonic Stack
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3583-count-special-triplets](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/3583-count-special-triplets) |
 ## Doubly-Linked List
 |  |
 | ------- |
