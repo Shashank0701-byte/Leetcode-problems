@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0735-asteroid-collision) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0943-sum-of-subarray-minimums) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3583-count-special-triplets](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/3583-count-special-triplets) |
 ## Doubly-Linked List
