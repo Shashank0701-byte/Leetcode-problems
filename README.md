@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0231-power-of-two) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0231-power-of-two) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1248-count-number-of-nice-subarrays) |
