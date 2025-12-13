@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2211-count-collisions-on-a-road](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2211-count-collisions-on-a-road) |
+| [3606-coupon-code-validator](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/3606-coupon-code-validator) |
 ## Array
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3583-count-special-triplets](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/3606-coupon-code-validator) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Monotonic Stack
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3433-count-mentions-per-user](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/3531-count-covered-buildings) |
+| [3606-coupon-code-validator](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/3606-coupon-code-validator) |
 ## Merge Sort
 |  |
 | ------- |
