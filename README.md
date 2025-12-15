@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1590-make-sum-divisible-by-p) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1646-kth-missing-positive-number) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0410-split-array-largest-sum](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0943-sum-of-subarray-minimums) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1925-count-square-sum-triples) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2169-count-operations-to-obtain-zero) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
