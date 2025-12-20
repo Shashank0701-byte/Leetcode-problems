@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0076-minimum-window-substring) |
 | [0402-remove-k-digits](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [1021-remove-outermost-parentheses](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1935-maximum-number-of-words-you-can-type) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0735-asteroid-collision) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0943-sum-of-subarray-minimums) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1018-binary-prefix-divisible-by-5) |
