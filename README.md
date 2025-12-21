@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0162-find-peak-element) |
 | [0239-sliding-window-maximum](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0410-split-array-largest-sum](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
+| [0455-assign-cookies](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0455-assign-cookies) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Dynamic Programming
 |  |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0455-assign-cookies) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Sliding Window
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0148-sort-list) |
+| [0455-assign-cookies](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0455-assign-cookies) |
 | [2092-find-all-people-with-secret](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2154-keep-multiplying-found-values-by-two) |
