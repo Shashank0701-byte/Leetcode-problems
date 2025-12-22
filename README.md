@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1021-remove-outermost-parentheses](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1935-maximum-number-of-words-you-can-type) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0943-sum-of-subarray-minimums) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0410-split-array-largest-sum](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0943-sum-of-subarray-minimums) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
