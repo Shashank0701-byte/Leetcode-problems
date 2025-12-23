@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0735-asteroid-collision](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0735-asteroid-collision) |
+| [0860-lemonade-change](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0860-lemonade-change) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0943-sum-of-subarray-minimums) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0944-delete-columns-to-make-sorted) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0860-lemonade-change) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Sliding Window
