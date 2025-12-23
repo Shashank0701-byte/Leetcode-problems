@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1590-make-sum-divisible-by-p) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1646-kth-missing-positive-number) |
+| [2054-two-best-non-overlapping-events](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0943-sum-of-subarray-minimums) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [2054-two-best-non-overlapping-events](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
+| [2054-two-best-non-overlapping-events](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2054-two-best-non-overlapping-events) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1646-kth-missing-positive-number) |
+| [2054-two-best-non-overlapping-events](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Prefix Sum
 |  |
@@ -277,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0455-assign-cookies) |
+| [2054-two-best-non-overlapping-events](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2154-keep-multiplying-found-values-by-two) |
