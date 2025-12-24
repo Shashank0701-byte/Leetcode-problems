@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2211-count-collisions-on-a-road) |
+| [2864-maximum-odd-binary-number](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2864-maximum-odd-binary-number) |
 | [3606-coupon-code-validator](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/3606-coupon-code-validator) |
 ## Array
 |  |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0860-lemonade-change) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2864-maximum-odd-binary-number](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2864-maximum-odd-binary-number) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/3074-apple-redistribution-into-boxes) |
 ## Sliding Window
 |  |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2169-count-operations-to-obtain-zero) |
+| [2864-maximum-odd-binary-number](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2864-maximum-odd-binary-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/3433-count-mentions-per-user) |
