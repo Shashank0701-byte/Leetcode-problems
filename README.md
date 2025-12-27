@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0162-find-peak-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0410-split-array-largest-sum](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0455-assign-cookies) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [2054-two-best-non-overlapping-events](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2402-meeting-rooms-iii) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0455-assign-cookies) |
 | [2054-two-best-non-overlapping-events](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2092-find-all-people-with-secret) |
@@ -390,4 +394,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2092-find-all-people-with-secret](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/2092-find-all-people-with-secret) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Shashank0701-byte/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
